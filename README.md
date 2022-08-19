@@ -9,7 +9,7 @@ No sistema você poderá:
 ✓ Optar por dar uma entrada de pagamento ou não;
 ✓ Visualizar seu saldo devedor;
 
-Demonstração do Projeto:
+
 
 
 
