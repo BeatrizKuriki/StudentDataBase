@@ -35,7 +35,7 @@ A aplicação consiste em um sistema que cadastra novos estudantes, onde eles te
 
 # Tecnologias utilizadas
 ## Back end
-- Java
+ <img align="center" alt="Beatriz-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
 
 # Como executar o projeto
 
