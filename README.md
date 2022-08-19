@@ -26,6 +26,9 @@
 
 
 
-
+<div align "center">
 Principais tecnologias usadas:
-✓ Java.
+
+ <img align="center" alt="Beatriz-Java" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+
+</div>
