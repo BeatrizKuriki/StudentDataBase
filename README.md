@@ -1,5 +1,5 @@
 # Student Data Base 
-https://github.com/BeatrizKuriki/StudentDataBase/blob/main/license
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/BeatrizKuriki/StudentDataBase/blob/main/license)
 
 # Sobre o projeto
 
