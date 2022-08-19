@@ -26,7 +26,8 @@ A aplicação consiste em um sistema que cadastra novos estudantes, onde eles te
   
   ## Tela Final:
   <div align = "center">
- ![image](https://user-images.githubusercontent.com/93167711/185702081-7b90a8eb-cb9e-4915-867b-88e286cf0147.png)
+ ![image](https://user-images.githubusercontent.com/93167711/185703050-37bc424a-2bce-46de-86c5-796e3b58cc7f.png)
+
 
  </div>
 
